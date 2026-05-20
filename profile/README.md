@@ -1,12 +1,42 @@
-## Hi there 👋
+# PuppetDigital
 
-<!--
+**PuppetDigital** is an independent development studio focused on building practical, reusable tools and experiments across **Flutter**, **AI**.
 
-**Here are some ideas to get you started:**
+This space serves as a home for open-source packages, developer utilities, and experimental projects designed to solve real problems and improve development workflows.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## What I Build
+
+-  Flutter packages and mobile utilities  
+-  AI-assisted tools and experiments  
+-  Developer productivity tools  
+
+All projects are developed independently and maintained with long-term usability and clarity in mind.
+
+---
+
+## Philosophy
+
+- Build things I actually use  
+- Keep tools simple, documented, and reusable  
+- Experiment freely without overengineering  
+- Share knowledge through open-source  
+
+---  
+
+PuppetDigital is a personal, independent initiative.  
+All projects here are created outside of any employer work and are not affiliated with any company unless explicitly stated.
+
+---
+
+## Links
+
+-  [Instagram](https://instagram.com/puppetdigital.dev)
+-  [Reddit](https://reddit.com/u/puppetdigital-dev)  
+
+---
+
+## License
+
+Unless otherwise stated, projects are released under the MIT License.
